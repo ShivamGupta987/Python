@@ -1,0 +1,7 @@
+fruits=['banana','mango','kiwi']
+newfruits=[]
+
+for x in fruits:
+  if "a" in x:
+    newfruits.append(x)
+print(newfruits)
